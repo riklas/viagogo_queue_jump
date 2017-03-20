@@ -1,1 +1,1 @@
-# viagogo_queue_jump
+google chrome extension visit chrome://extensions/ to configure
